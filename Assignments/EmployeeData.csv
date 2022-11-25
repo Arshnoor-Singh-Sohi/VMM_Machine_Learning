@@ -1,0 +1,30 @@
+EMPID,Ename,Salary,Department,Gender,Age
+1001,Arshnoor Singh,100000,DS,Male,21
+1002,Tony Stark,100000,CSE,Male,50
+1003,Thor,70000,ME,Male,70
+1004,Scarlet Witch,5000,CE,Female,30
+1005,Doctor Strange,50000,MBBS,Male,45
+1006,Spiderman,30000,CSE,Male,25
+1007,Stan Lee,90000,ARTS,Male,90
+1008,Sheldon Cooper,45000,TP,Male,27
+1009,Howard Wolowitz,50000,ME,Male,28
+1010,Leonard Nimoy,20000,ARTS,Male,67
+1011,Bruce Banner,50000,CSE,Male,45
+1012,Bruce Wayne,99000,CSE,Male,35
+1013,Caption America,60000,ME,Male,70
+1014,Black Widow,25000,ME,Female,29
+1015,Vision,30000,ECE,Male,30
+1017,David Eagleman,40000,ECE,Male,35
+1018,Jim Kwik,37000,CSE,Male,40
+1019,Elon Musk,91000,CSE,Male,50
+1020,Robert Greene,49000,ME,Male,67
+1021,Napoleon Hill,90000,ME,Male,78
+1022,Ankur Warikoo,25000,CSE,Female,40
+1023,Cal Newport,35000,CSE,Male,34
+1024,Jay Shetty,35000,ECE,Female,33
+1025,Sherlock Holmes,80000,CSE,Male,32
+1026,Stephen Hawking,95000,TP,Male,89
+1027,Chris Bailey,31000,ECE,Male,56
+1028,Meg Jay,20000,ME,Female,54
+1029,Brian Tracy,30000,CE,Female,78
+1030,Joshua Foer,43000,CSE,Female,36
